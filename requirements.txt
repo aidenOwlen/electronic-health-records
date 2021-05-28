@@ -1,0 +1,3 @@
+csv
+PyQt4
+mysql
